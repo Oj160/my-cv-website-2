@@ -1,0 +1,17 @@
+body {
+  background-color: #0a192f; 
+  color: #e6f1ff; 
+}
+main, header {
+  background: #112240;      
+  border-radius: 8px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+}
+h1, h2 {
+  color: #64ffda;   
+}
+  h2{
+    text-decoration: underline;
+    color:#64ffda;
+  }
+
